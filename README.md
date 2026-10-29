@@ -1,5 +1,7 @@
 # Image Percentage F — earlier prototype
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Небольшое desktop-приложение на Python для анализа PDF-файлов: извлекает изображения из документа, оценивает процент заполнения по альфа-каналу и сохраняет результаты в Excel.
 
 ## Статус аудита
